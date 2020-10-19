@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4b4896b-62f8-4cbf-988c-16ac1dbebd55" name="Default Changelist" comment="update 0.1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ivRsX0ziGiZDSq5GCYutlB3vNx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4b4896b-62f8-4cbf-988c-16ac1dbebd55" name="Default Changelist" comment="" />
+      <created>1602786285627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602786285627</updated>
+      <workItem from="1602786286727" duration="3415000" />
+      <workItem from="1603134057723" duration="11314000" />
+    </task>
+    <task id="LOCAL-00001" summary="get sub-string function">
+      <created>1603145698518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603145698518</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 0.1">
+      <created>1603145945922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603145945922</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="get sub-string function" />
+    <MESSAGE value="update 0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 0.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="187" key="#Notifications" timestamp="1603146457953">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="435" y="187" key="#Notifications/0.0.1360.728@0.0.1360.728" timestamp="1603146457953" />
+    <state x="110" y="120" width="1140" height="488" key="DiffContextDialog" timestamp="1603146774408">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="110" y="120" width="1140" height="488" key="DiffContextDialog/0.0.1360.728@0.0.1360.728" timestamp="1603146774408" />
+    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1602787723950">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1602787723950" />
+    <state x="514" y="287" key="NewPhpFileDialog" timestamp="1602786371104">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="514" y="287" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1602786371104" />
+    <state x="181" y="9" key="SettingsEditor" timestamp="1603146767162">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1603146767162" />
+    <state x="272" y="83" key="Vcs.Push.Dialog.v2" timestamp="1603145950767">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="83" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603145950767" />
+  </component>
+</project>
